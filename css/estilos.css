@@ -53,6 +53,7 @@ main {
   width: 100vw;
   height: 70vh;
   font-size: var(--font);
+  text-align: center;
 }
 .main-nav {
   margin-top: 10px;
