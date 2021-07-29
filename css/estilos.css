@@ -21,6 +21,17 @@ header {
   background-color: antiquewhite;
 }
 
+header a {
+  background-color: blue;
+  width: 50px;
+  height: 100px;
+}
+.logo {
+  background-color: black;
+}
+.nombrecorp {
+  background-color: red;
+}
 nav {
   background-color: blue;
 }
@@ -39,6 +50,8 @@ nav li {
 }
 main {
   background-color: blueviolet;
+  width: 100vw;
+  height: 100vh;
 }
 
 footer {
