@@ -1,11 +1,9 @@
 html {
-  background-color: rgb(243, 243, 212);
 }
 body {
-  background-color: aliceblue;
-  margin: auto;
 }
 header {
-  color: rgb(12, 14, 100);
-  background-color: rgb(238, 107, 107);
+}
+
+footer {
 }
