@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/maurivadeneira/corpherejiaeconomica/issues"
   },
-  "homepage": "https://github.com/maurivadeneira/corpherejiaeconomica#readme"
+  "homepage": "https://github.com/maurivadeneira/corpherejiaeconomica#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
 }
