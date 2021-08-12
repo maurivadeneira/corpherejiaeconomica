@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  border: 0;
+  padding: 0;
 }
 
 html {
@@ -19,19 +19,35 @@ body {
 }
 header {
   background-color: antiquewhite;
+  color: white;
 }
-
+.logo {
+  background-color: aqua;
+  color: black;
+}
+header h1 {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+header h3 {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
 nav {
   background-color: blue;
+  display: flex;
+  display: flex;
+  justify-content: center;
 }
 
 nav a {
   color: white;
   text-decoration: none;
-
-  padding: 1px;
+  padding: 0.2rem;
   border-radius: 2px;
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 
 nav li {
