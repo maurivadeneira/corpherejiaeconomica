@@ -1,2 +1,2 @@
 # corpherejiaeconomica
-aprendiendo a desarrollar un proyecto grande.
+Aprendiendo a desarrollar mi proyecto.
